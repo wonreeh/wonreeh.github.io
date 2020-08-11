@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "첫걸음"
 date: 2020-08-11 14:31:11 -0900
 categories: talk
